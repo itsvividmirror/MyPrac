@@ -1,3 +1,0 @@
-# DEMO
-
-Hello World
